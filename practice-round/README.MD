@@ -38,4 +38,6 @@ apple 260<br>
 <h3>Sample Output</h3>
 <p>Case #1: <br>
 apple 100 260 180
+banana 90 90 90
+
 </p>
