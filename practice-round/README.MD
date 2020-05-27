@@ -26,7 +26,7 @@ case's input list, output one line in the format:<br>
 <b>X L H M </b><br>
 where X is the food item, L is its lowest price, H is its highest price, and M is its average price.
 </p>
-<h3>Sample Output </h3>
+<h3>Sample Input </h3>
 <p>1<br>
 <br>
 3<br>
