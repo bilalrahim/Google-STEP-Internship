@@ -1,9 +1,9 @@
 # Google STEP Internship Sydney 2020<br>
 <h3>Problem Statement</h3> <br>
-<p>You are given a list of pairs. Each pair contains a food item and its price. For example, ((apple, 120),(banana, 200),(apple, 150)....)<br>
+<p>You are given a list of pairs. Each pair contains a food item and its price. For example, ((apple, 120), (banana, 200), (apple, 150)....)<br>
 Specific food items may occur multiple times within the list of pairs, with potentially varying price.
 <br>
-For each food item, output the lowest , highest and average price for the item. The ouptut list should <br>
+For each food item, output the lowest, highest and average price for the item. The outptut list should <br>
 be lexicographically sorted by name of food item.<br>
 </p>
 <h3>Input</h3>
