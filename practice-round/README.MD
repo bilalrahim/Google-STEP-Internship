@@ -1,4 +1,4 @@
-# Google STEP Intership Sydney 2020<br>
+# Google STEP Internship Sydney 2020<br>
 <h3>Problem Statement</h3> <br>
 <p>You are given a list of pairs. Each pair contains a food item and its price. For example, ((apple, 120),(banana, 200),(apple, 150)....)<br>
 Specific food items may occur multiple times within the list of pairs, with potentially varying price.
@@ -10,7 +10,7 @@ be lexicographically sorted by name of food item.<br>
 <br>
 <p>Test cases will be provided in the following multiline text format,<br> 
 using ascii characters. The first line contains one integer, C, which is the number of test cases that will follow. <br>
-The second line is blank . From the third line onwards, the test case seperated by blank lines will follow . Each test<br>
+The second line has the test case seperated by blank lines will follow . Each test<br>
 case has the following format.<br>
 <br>
 </p>
@@ -27,7 +27,7 @@ case's input list, output one line in the format:<br>
 where X is the food item, L is its lowest price, H is its highest price, and M is its average price.
 </p>
 <h3>Sample Output </h3>
-<p>3<br>
+<p>1<br>
 <br>
 3<br>
 banana 90<br>
