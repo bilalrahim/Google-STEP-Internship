@@ -10,7 +10,7 @@ be lexicographically sorted by name of food item.<br>
 <br>
 <p>Test cases will be provided in the following multiline text format,<br> 
 using ascii characters. The first line contains one integer, C, which is the number of test cases that will follow. <br>
-The second line has the test case seperated by blank lines will follow . Each test<br>
+The second line has the test case separated by blank lines will follow . Each test<br>
 case has the following format.<br>
 <br>
 </p>
